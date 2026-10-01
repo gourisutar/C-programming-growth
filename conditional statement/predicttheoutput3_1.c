@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+int x=15;
+printf("\n%d%d%d",x!=15,x=20,x<30); //here first x=20 therefore x!=15 is true
+return 0;
+}
